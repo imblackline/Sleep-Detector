@@ -1,5 +1,4 @@
 # Sleep-Detector
-# Sleep Detector
 
 This project aims to detect sleep patterns using machine learning techniques. The main code is contained in the `Sleep detector.ipynb` notebook.
 
